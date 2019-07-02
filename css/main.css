@@ -115,3 +115,11 @@ body {
 .mastfoot {
   color: rgba(255, 255, 255, .5);
 }
+
+.mastfoot a {
+  white-space: nowrap;
+}
+
+.mastfoot {
+  font-size: 14px;
+}
